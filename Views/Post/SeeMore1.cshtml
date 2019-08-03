@@ -1,0 +1,151 @@
+
+@model Post
+@inject ApplicationDbContext context
+ <section class="blog-details-area section-padding-80">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="blog-details-content">
+                        <!--  Details  -->
+                        <div class="post-details-text">
+
+                            <div class="row justify-content-center">
+                                <div class="col-12 col-lg-10">
+                                    <div class="post-content text-center mb-50">
+                                        <a href="#" class="post-date">@Model.Date.ToString("MMMM-dd")</a>
+                                        <h2>@Model.Heading</h2>
+                                    </div>
+                                </div>
+                                <div class="col-12">
+                                    <img class="mb-50" src="/images/@Model.PhotoName" alt="">
+                                </div>
+                                <div class="col-12 col-lg-10">
+                                    <h5> @Html.Raw(Model.Description) </h5>
+                                    
+                          
+                                    <!-- Post Catagories & Post Share -->
+                                    <div class="d-flex align-items-center justify-content-between">
+                                        <!-- Post Catagories -->
+                                        <div class="post-catagories">
+                                            <ul class="d-flex flex-wrap align-items-center">
+                                      <li>   <a asp-action="PointUp" asp-controller="Post"  asp-route-id="@Model.Id">Likes: @Model.Point</a> </li>
+
+                                                <li>  <a href="#"> #@Model.Category</a></li>
+                                                
+                                                
+                                            </ul>
+                                        </div>
+
+                                        <!-- Post Share -->
+                                       <div class="uza-post-share d-flex align-items-center">
+                                            <h6 class="mb-0 mr-3">Share:</h6>
+                                            <div class="social-info-">
+                                                <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                                                <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                                                <a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
+                                                <a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+                                                <a href="#"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                    <!-- Related News Area -->
+                                    <div class="related-news-area">
+                                        <h2 class="mb-4">Relatest Posts</h2>
+
+                                        <div class="row">
+                                      @foreach(var posts in ViewBag.RelatedPosts)
+                                                        {
+                                                            
+                                            
+                                            <div class="col-12 col-lg-6">
+                                                <div class="single-blog-post bg-img mb-50" style="background-image: url(.~/images/@posts.PhotoName);">
+                                            
+                                                    <div class="post-content">
+                                                        
+                                                        <span class="post-date"><span>@posts.Date.ToString("MMMM dd")</span>
+                                                        <a href="#" class="post-title">@posts.Heading</a>
+                                                        <p>@Html.Raw(posts.Description.Length>200? posts.Description.Substring(0,199)+"..." : posts.Description)</p>
+                                                        <a asp-controller="Post" asp-action="SeeMore1" asp-route-id="@posts.Id" asp-route-cat="@posts.Category" class="read-more-btn">Read More <i class="arrow_carrot-2right"></i></a>
+
+                                                       </div>
+                                                </div>
+                                            </div>
+                                                            
+                                                        }
+                                                    </div>
+
+                                         
+                                            
+                                        </div>
+                                    </div> 
+
+                                    <!-- Comments Area -->
+                
+                                    <div class="comment_area mb-50 clearfix">
+                                        
+                                            
+                                        
+                                       
+                                            
+                                        <h5 class="title">@ViewBag.Comments.Count Comments</h5>
+                                        
+                                        <ol>
+                                        
+                                            
+                                               
+                                                <div class="comment-content d-flex">
+                                                    
+                                                    <div class="comment-meta">
+                                                        @foreach (var item in ViewBag.Comments)
+                                                        {
+                                                           
+                                                        
+                                                        <a href="#" class="post-date">@item.CreatedAt.ToString("MMMM dd")</a>
+                                                        <div class="comment-author">
+                                                   
+                                                        <img src="/images/@item.PhotoName" alt="commenter">
+                                                    </div>  <h5>@item.Username.Split('@')[0]</h5>
+                                                        <p>@item.Text</p>
+                                                        <a href="#" class="like">Like</a>
+                                                        <a href="#" class="reply">Reply</a>
+                                                        <a class="reply" asp-action="DeleteComment" asp-controller="Post"  asp-route-cat="@Model.Category" asp-route-id="@item.Id"> Delete</a>
+                                                        <br>
+                                                        <br>
+                                                        }
+                                                    </div>
+                                                </div>
+                           
+
+                                         
+        
+                                    <!-- comment form starts Here -->
+                                    <div class="uza-contact-form">
+                                        <div class="container">
+                                        <h2 class="mb-4">Leave A Comment</h2>
+
+                                        <form asp-action="AddComment" asp-controller="Post" method="POST">
+                                            <div class="row">
+                                               <input  type="hidden" id="commentCreatedAt" name="commentCreatedAt"> 
+                                                      <input type="hidden" name="postId" id="postId" value="@Model.Id"/>
+                                                <div class="col-12">
+                                                    <textarea id="commentText" name="commentText" class="form-control mb-30" placeholder="Comment" required></textarea>
+                                                </div>
+                                            <div class="col-12">
+                                                <input  type="hidden" id="Photo" name="Photo" value="@Model.PhotoName">
+                                                    <button type="submit" class="btn uza-btn btn-3 mt-15"> Post Comment</button>
+                                                </div>
+                                            </div>
+                                        </form>
+                                    </div>
+                                   </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+   
+   

@@ -1,0 +1,75 @@
+ @model Post
+ 
+ 
+ 
+ <link href="quill/dist/quill.snow.css" rel="stylesheet"> 
+
+
+<br>
+<form  asp-action="Update" asp-controller="Post" method="POST">
+<div class="form-group">
+    <h5 style="color:Green;"> Heading </h5>
+    <input type="text" asp-for="Heading"  class="form-control">
+</div>
+<input asp-for="Date" type="hidden"> 
+<input asp-for="Id" type="hidden"> 
+
+<input asp-for="Description" type="hidden"/>
+
+<h5 style="color:Green;">Description</h5>
+<div id="toolbar">
+  <button class="ql-bold">Bold</button>
+  <button class="ql-italic">Italic</button>
+</div>
+<div id="editor">
+</div>
+<br>
+<div class="form-group">
+  <h5 style="color:Green;">Category</h5>
+  <select asp-for="Category"  class="form-control" >
+    <option> Design </option>
+    <option> Business </option>
+    <option> News </option>
+    <option> Politics </option>
+    <option> Finance </option>
+    <option> Culture </option>
+  </select>
+</div>
+<div class="form-group">
+  <label>Upload Feature Photo</label>
+  <input type="file" name="pic" accept="image/*"/>
+</div>
+<div class="form-group">
+        <input type ="submit" class="btn btn-success" value="Save"/>
+    </div>
+</form>
+
+
+@section Scripts {
+        <!-- <script src="/quill/dist/quill.js"></script> -->
+
+    <script>
+  var editor = new Quill('#editor', {
+    modules: { toolbar: '#toolbar' },
+    theme: 'snow'
+  });
+
+  
+
+  $('input[type="submit"]').on('mouseover',()=>{
+    $("#Description").val(editor.root.innerHTML)
+    return false;
+  })
+
+ $(()=>{
+ var description = $("#Description").val();
+  if(description!="" || description!=undefined)
+    editor.root.innerHTML = description;
+ })
+  
+
+</script>
+
+}
+
+

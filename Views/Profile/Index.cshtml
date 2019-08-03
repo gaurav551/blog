@@ -1,0 +1,55 @@
+ @model  Profile
+
+
+@if (Model == null)
+
+     { 
+     
+<div class="alert alert-danger" role="alert">
+  Why Havent You created a profile yet? <span> Click <a asp-controller="Profile" asp-action="New">Me </a> To Create A new One </span>!
+</div>
+     }
+
+  else
+  {  
+
+
+ <div class="container" class="col-md-12">    
+                  <div class="row">
+                      <div class="panel panel-default">
+                      <div class="panel-heading">  <h4 >Profile</h4></div>
+                       <div class="panel-body">
+                      <div class="col-md-2 col-xs-7 col-sm-3.5 col-lg-2">
+                       <img alt="User Pic" src="/profiles/@Model.PhotoName" height="3000px" width="3000px "> 
+                     
+                
+                      </div>
+                      <div class="col-md-8 col-xs-12 col-sm-6 col-lg-8" >
+                          <div class="container" >
+                            <h2>@Model.NickName</h2>
+                            <p>an   <b> @Model.PostType writer </b></p>
+                          
+                           
+                          </div>
+                           <hr>
+                          <ul class="container details" >
+                            <li><p><span class="glyphicon glyphicon-user one" style="width:50px;"> <strong> Address : </strong>  </span>@Model.Address</p></li>
+                            <li><p><span class="glyphicon glyphicon-envelope one" style="width:50px;"> <strong>Email : </strong> </span>@Model.Email</p></li>
+                            <li><p><span class="glyphicon glyphicon-envelope one" style="width:50px;"> <strong>Biography :</strong></span>@Model.Biography</p></li>
+                            <li><p><span class="glyphicon glyphicon-envelope one" style="width:50px;"> <strong>Gender :</strong></span>@Model.Gender</p></li>
+                            <li><p><span class="glyphicon glyphicon-envelope one" style="width:50px;"> <strong>Interests :</strong></span>@Model.Interests</p></li>
+
+
+                          </ul>
+                          
+                          <hr>
+                          <div class="col-sm-5 col-xs-6 tital " >Date Of Birth: @Model.DOB</div>
+                          <a asp-controller="Profile" asp-action="Edit" asp-route-Id="@Model.Id"> Update Profile</a>
+                      </div>
+                </div>
+            </div>
+            </div>
+ </div>
+}
+
+

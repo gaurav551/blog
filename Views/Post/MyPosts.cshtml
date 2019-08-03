@@ -1,0 +1,70 @@
+
+@model List<Post>
+
+
+
+
+@if (Model.Count<=0)
+
+     { <br>
+     
+         <p style="text-align:center; text-transform:capitalize" >  Sorry @User.Identity.Name.Split('@')[0] You do not have any Posts</p>
+   <p style="text-align:center;" > Click<mark> <a asp-action="New" asp-controller="Post"> Here </a></mark>  To Add a New Post</p>
+
+     }
+    
+
+else
+{
+
+<div class="alert alert-info">
+  <strong style="text-transform:capitalize">  Hello @User.Identity.Name.Split('@')[0] </strong> Your Posts Has @ViewBag.PlusPoints Points
+</div> 
+ @foreach (var x in Model)
+ {
+     
+ //    <div style="background-color:; color:black; padding:5px;">
+
+//<div style="background-color:#FFE4C4	; color:black; padding:19px;">
+
+
+    
+
+//<h2>@x.Heading</h2>
+//<p> @x.Point <i>By You</i> At @x.Date</p>
+
+//<p> @Html.Raw(x.Description.Length>250? x.Description.Substring(0,249)+"...." :x.Description)</p>
+//<a class="btn btn-primary" asp-controller="Post" asp-action = "Edit" asp-route-id="@x.Id"> Edit</a>
+//<a class="btn btn-success" asp-action="SeeMore" asp-controller="Post" asp-route-id="@x.Id">See More</a>
+//<a class="btn btn-primary" asp-action="Delete" asp-controller="Post" asp-route-id="@x.Id"> Delete </a>
+//</div>
+//</div>
+
+<div class="jumbotron p-4 p-md-5 text-white rounded " style="color:white;">
+    <div class="col-md-6 px-0"  style="color:black;">
+      <h1 class="display-4 font-italic">@x.Heading</h1>
+      <p class="lead my-3"> @Html.Raw(x.Description.Length>250? x.Description.Substring(0,249)+"...." :x.Description)</p>
+      <p class="lead mb-0"><a asp-action="SeeMore1" asp-controller="Post" asp-route-id="@x.Id" class="text-white font-weight-bold">Continue reading...</a></p>
+      <a class="btn btn-primary" asp-controller="Post" asp-action = "Edit" asp-route-id="@x.Id"> Edit</a>
+<a class="btn btn-primary" asp-action="Delete" asp-controller="Post" asp-route-id="@x.Id"> Delete </a>
+    </div>
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ }
+
+}   
+       

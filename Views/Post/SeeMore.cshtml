@@ -1,0 +1,93 @@
+@model Post
+@inject ApplicationDbContext context
+
+@if(Model?.Id >= 0)
+{
+<!-- heading and Description -->
+<div style="width:70%;border:1px solid gray;padding:16px;">
+<h1 style="text-align:center;text-transform:uppercase;color:Green;" > @Model.Heading</h1>
+ <p> <i><u> Created At @Model.Date.ToString("MMMM-dd"); </u> </i></p>
+<p style="text-indent:50px;text-align:justify;letter-spacing:3px;"> @Html.Raw(Model.Description) </p>
+<p>Points: @Model.Point</p>
+<a asp-action="PointUp" asp-controller="Post" asp-route-id="@Model.Id">Point Up</a>
+<a asp-action="PointDown" asp-controller="Post" asp-route-id="@Model.Id">Point Down</a>
+</div>
+
+
+
+
+<!-- Add Comment (Passing commentText and postId to Controller)  -->
+<form asp-action="AddComment" asp-controller="Post" method="POST">
+<div class="form-group" style="width:70%">
+    
+    <input  type="hidden" id="commentCreatedAt" name="commentCreatedAt"> 
+    <input type="hidden" name="postId" id="postId" value="@Model.Id"/>
+    <br>
+    
+    <textarea id="commentText" name="commentText" rows="2" cols="104" placeholder="Drop Your Views.." required></textarea>
+    
+    <input type ="submit" class="btn btn-success" value="Comment"/>
+</div>
+</form>
+
+
+<!-- Comment View -->
+<div>
+    <h5 style="color:Green;" > Recent Comments </h5>
+    
+    @if(@ViewBag.Comments.Count<=0){
+        <p>No comments</p>
+    } else {
+       
+        foreach (var comment in ViewBag.Comments)
+        {
+            
+              
+
+           <h4>@comment.Username.Split('@')[0]</h4>
+           
+
+          <p> @comment.Text <sub> <i>@comment.CreatedAt  </i> </sub> </p>
+          
+          
+            <a class="btn btn-danger" asp-action="DeleteComment" asp-controller="Post" asp-route-id="@comment.Id"> Delete</a>
+          
+         //Reply view
+         
+              var replies = context.Replies.ToList();
+              foreach (var reply in replies)
+              {
+                  if(reply.CommentId == comment.Id){
+                      
+
+                      <h6>@reply.Username</h6>
+                      <p>@reply.Message</p>
+                      
+                      
+                  }
+              }
+          
+          
+            // <Comment Reply Form>
+          <form asp-action="ReplyComment" asp-controller="Post" method="POST">
+            <input type="hidden" name="commentId" id="commentId" value="@comment.Id"/>
+           
+            <input type="hidden" name="postId" id="postId" value="@Model.Id"/>
+            <textarea name="replyMessage" id="replyMessage" ></textarea>
+            <input type="submit" class="btn btn-primary" value="Reply" />
+          </form>
+          // </ Comment Reply Form>
+<hr>
+        }
+    }
+<br>
+   </div>
+
+}
+else
+{
+    <p> No</p>
+}
+
+
+

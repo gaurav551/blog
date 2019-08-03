@@ -1,0 +1,267 @@
+C:\Users\LENOVO\Desktop\DotNet\blog\bin\Debug\netcoreapp2.2\app.db
+C:\Users\LENOVO\Desktop\DotNet\blog\bin\Debug\netcoreapp2.2\blog.deps.json
+C:\Users\LENOVO\Desktop\DotNet\blog\bin\Debug\netcoreapp2.2\blog.runtimeconfig.json
+C:\Users\LENOVO\Desktop\DotNet\blog\bin\Debug\netcoreapp2.2\blog.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\DotNet\blog\bin\Debug\netcoreapp2.2\blog.dll
+C:\Users\LENOVO\Desktop\DotNet\blog\bin\Debug\netcoreapp2.2\blog.pdb
+C:\Users\LENOVO\Desktop\DotNet\blog\bin\Debug\netcoreapp2.2\blog.Views.dll
+C:\Users\LENOVO\Desktop\DotNet\blog\bin\Debug\netcoreapp2.2\blog.Views.pdb
+C:\Users\LENOVO\Desktop\DotNet\blog\obj\Debug\netcoreapp2.2\blog.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\DotNet\blog\obj\Debug\netcoreapp2.2\blog.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\DotNet\blog\obj\Debug\netcoreapp2.2\blog.RazorAssemblyInfo.cache
+C:\Users\LENOVO\Desktop\DotNet\blog\obj\Debug\netcoreapp2.2\blog.RazorAssemblyInfo.cs
+C:\Users\LENOVO\Desktop\DotNet\blog\obj\Debug\netcoreapp2.2\blog.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\DotNet\blog\obj\Debug\netcoreapp2.2\blog.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\DotNet\blog\obj\Debug\netcoreapp2.2\blog.TagHelpers.input.cache
+C:\Users\LENOVO\Desktop\DotNet\blog\obj\Debug\netcoreapp2.2\blog.TagHelpers.output.cache
+C:\Users\LENOVO\Desktop\DotNet\blog\obj\Debug\netcoreapp2.2\blog.RazorCoreGenerate.cache
+C:\Users\LENOVO\Desktop\DotNet\blog\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\LENOVO\Desktop\DotNet\blog\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\LENOVO\Desktop\DotNet\blog\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\LENOVO\Desktop\DotNet\blog\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\LENOVO\Desktop\DotNet\blog\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\LENOVO\Desktop\DotNet\blog\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\LENOVO\Desktop\DotNet\blog\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\LENOVO\Desktop\DotNet\blog\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\LENOVO\Desktop\DotNet\blog\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\LENOVO\Desktop\DotNet\blog\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\LENOVO\Desktop\DotNet\blog\obj\Debug\netcoreapp2.2\blog.RazorTargetAssemblyInfo.cache
+C:\Users\LENOVO\Desktop\DotNet\blog\obj\Debug\netcoreapp2.2\blog.RazorTargetAssemblyInfo.cs
+C:\Users\LENOVO\Desktop\DotNet\blog\obj\Debug\netcoreapp2.2\blog.Views.pdb
+C:\Users\LENOVO\Desktop\DotNet\blog\obj\Debug\netcoreapp2.2\blog.dll
+C:\Users\LENOVO\Desktop\DotNet\blog\obj\Debug\netcoreapp2.2\blog.pdb
+C:\Users\LENOVO\Desktop\DotNet\blog\obj\Debug\netcoreapp2.2\blog.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\DotNet\blog\obj\Debug\netcoreapp2.2\Razor\Views\Post\New.g.cshtml.cs
+C:\Users\LENOVO\Desktop\DotNet\blog\obj\Debug\netcoreapp2.2\Razor\Views\Post\Index.g.cshtml.cs
+C:\Users\LENOVO\Desktop\DotNet\blog\obj\Debug\netcoreapp2.2\Razor\Views\Post\SeeMore.g.cshtml.cs
+C:\Users\LENOVO\Desktop\DotNet\blog\obj\Debug\netcoreapp2.2\Razor\Views\Post\Edit.g.cshtml.cs
+C:\Users\LENOVO\Desktop\DotNet\blog\obj\Debug\netcoreapp2.2\Razor\Views\Post\MyPosts.g.cshtml.cs
+C:\Users\LENOVO\Desktop\DotNet\blog\obj\Debug\netcoreapp2.2\Razor\Views\Post\Error.g.cshtml.cs
+C:\Users\LENOVO\Desktop\DotNet\blog\obj\Debug\netcoreapp2.2\Razor\Views\Home\PageNotFound.g.cshtml.cs
+C:\Users\LENOVO\Desktop\DotNet\blog\obj\Debug\netcoreapp2.2\Razor\Views\Post\Footer.g.cshtml.cs
+C:\Users\LENOVO\Desktop\DotNet\blog\obj\Debug\netcoreapp2.2\Razor\Views\Home\AccessDenied.g.cshtml.cs
+C:\Users\LENOVO\Desktop\DotNet\blog\obj\Debug\netcoreapp2.2\Razor\Views\Contact\New.g.cshtml.cs
+C:\Users\LENOVO\Desktop\DotNet\blog\obj\Debug\netcoreapp2.2\Razor\Views\Contact\Index.g.cshtml.cs
+C:\Users\LENOVO\Desktop\DotNet\blog\obj\Debug\netcoreapp2.2\Razor\Views\Home\Nav.g.cshtml.cs
+E:\.Net Projects\blog\bin\Debug\netcoreapp2.2\app.db
+E:\.Net Projects\blog\bin\Debug\netcoreapp2.2\blog.deps.json
+E:\.Net Projects\blog\bin\Debug\netcoreapp2.2\blog.runtimeconfig.json
+E:\.Net Projects\blog\bin\Debug\netcoreapp2.2\blog.runtimeconfig.dev.json
+E:\.Net Projects\blog\bin\Debug\netcoreapp2.2\blog.dll
+E:\.Net Projects\blog\bin\Debug\netcoreapp2.2\blog.pdb
+E:\.Net Projects\blog\bin\Debug\netcoreapp2.2\blog.Views.dll
+E:\.Net Projects\blog\bin\Debug\netcoreapp2.2\blog.Views.pdb
+E:\.Net Projects\blog\obj\Debug\netcoreapp2.2\blog.csprojAssemblyReference.cache
+E:\.Net Projects\blog\obj\Debug\netcoreapp2.2\blog.csproj.CoreCompileInputs.cache
+E:\.Net Projects\blog\obj\Debug\netcoreapp2.2\blog.RazorAssemblyInfo.cache
+E:\.Net Projects\blog\obj\Debug\netcoreapp2.2\blog.RazorAssemblyInfo.cs
+E:\.Net Projects\blog\obj\Debug\netcoreapp2.2\blog.AssemblyInfoInputs.cache
+E:\.Net Projects\blog\obj\Debug\netcoreapp2.2\blog.AssemblyInfo.cs
+E:\.Net Projects\blog\obj\Debug\netcoreapp2.2\blog.TagHelpers.input.cache
+E:\.Net Projects\blog\obj\Debug\netcoreapp2.2\blog.TagHelpers.output.cache
+E:\.Net Projects\blog\obj\Debug\netcoreapp2.2\blog.RazorCoreGenerate.cache
+E:\.Net Projects\blog\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+E:\.Net Projects\blog\obj\Debug\netcoreapp2.2\Razor\Views\Contact\Index.g.cshtml.cs
+E:\.Net Projects\blog\obj\Debug\netcoreapp2.2\Razor\Views\Contact\New.g.cshtml.cs
+E:\.Net Projects\blog\obj\Debug\netcoreapp2.2\Razor\Views\Home\AccessDenied.g.cshtml.cs
+E:\.Net Projects\blog\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+E:\.Net Projects\blog\obj\Debug\netcoreapp2.2\Razor\Views\Home\Nav.g.cshtml.cs
+E:\.Net Projects\blog\obj\Debug\netcoreapp2.2\Razor\Views\Home\PageNotFound.g.cshtml.cs
+E:\.Net Projects\blog\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+E:\.Net Projects\blog\obj\Debug\netcoreapp2.2\Razor\Views\Post\Edit.g.cshtml.cs
+E:\.Net Projects\blog\obj\Debug\netcoreapp2.2\Razor\Views\Post\Error.g.cshtml.cs
+E:\.Net Projects\blog\obj\Debug\netcoreapp2.2\Razor\Views\Post\Footer.g.cshtml.cs
+E:\.Net Projects\blog\obj\Debug\netcoreapp2.2\Razor\Views\Post\Index.g.cshtml.cs
+E:\.Net Projects\blog\obj\Debug\netcoreapp2.2\Razor\Views\Post\MyPosts.g.cshtml.cs
+E:\.Net Projects\blog\obj\Debug\netcoreapp2.2\Razor\Views\Post\New.g.cshtml.cs
+E:\.Net Projects\blog\obj\Debug\netcoreapp2.2\Razor\Views\Post\SeeMore.g.cshtml.cs
+E:\.Net Projects\blog\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+E:\.Net Projects\blog\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\.Net Projects\blog\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\.Net Projects\blog\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+E:\.Net Projects\blog\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\.Net Projects\blog\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+E:\.Net Projects\blog\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+E:\.Net Projects\blog\obj\Debug\netcoreapp2.2\blog.RazorTargetAssemblyInfo.cache
+E:\.Net Projects\blog\obj\Debug\netcoreapp2.2\blog.RazorTargetAssemblyInfo.cs
+E:\.Net Projects\blog\obj\Debug\netcoreapp2.2\blog.Views.pdb
+E:\.Net Projects\blog\obj\Debug\netcoreapp2.2\blog.dll
+E:\.Net Projects\blog\obj\Debug\netcoreapp2.2\blog.pdb
+E:\.Net Projects\blog\obj\Debug\netcoreapp2.2\blog.csproj.CopyComplete
+E:\.Net Projects\blog\obj\Debug\netcoreapp2.2\Razor\Views\Post\See.g.cshtml.cs
+E:\.Net Projects\blog\obj\Debug\netcoreapp2.2\Razor\Views\Profile\Index.g.cshtml.cs
+E:\.Net Projects\blog\obj\Debug\netcoreapp2.2\Razor\Views\Profile\New.g.cshtml.cs
+C:\Users\LENOVO\Desktop\DotNet\New\blog\bin\Debug\netcoreapp2.2\app.db
+C:\Users\LENOVO\Desktop\DotNet\New\blog\bin\Debug\netcoreapp2.2\blog.deps.json
+C:\Users\LENOVO\Desktop\DotNet\New\blog\bin\Debug\netcoreapp2.2\blog.runtimeconfig.json
+C:\Users\LENOVO\Desktop\DotNet\New\blog\bin\Debug\netcoreapp2.2\blog.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\DotNet\New\blog\bin\Debug\netcoreapp2.2\blog.dll
+C:\Users\LENOVO\Desktop\DotNet\New\blog\bin\Debug\netcoreapp2.2\blog.pdb
+C:\Users\LENOVO\Desktop\DotNet\New\blog\bin\Debug\netcoreapp2.2\blog.Views.dll
+C:\Users\LENOVO\Desktop\DotNet\New\blog\bin\Debug\netcoreapp2.2\blog.Views.pdb
+C:\Users\LENOVO\Desktop\DotNet\New\blog\obj\Debug\netcoreapp2.2\blog.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\DotNet\New\blog\obj\Debug\netcoreapp2.2\blog.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\DotNet\New\blog\obj\Debug\netcoreapp2.2\blog.RazorAssemblyInfo.cache
+C:\Users\LENOVO\Desktop\DotNet\New\blog\obj\Debug\netcoreapp2.2\blog.RazorAssemblyInfo.cs
+C:\Users\LENOVO\Desktop\DotNet\New\blog\obj\Debug\netcoreapp2.2\blog.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\DotNet\New\blog\obj\Debug\netcoreapp2.2\blog.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\DotNet\New\blog\obj\Debug\netcoreapp2.2\blog.TagHelpers.input.cache
+C:\Users\LENOVO\Desktop\DotNet\New\blog\obj\Debug\netcoreapp2.2\blog.TagHelpers.output.cache
+C:\Users\LENOVO\Desktop\DotNet\New\blog\obj\Debug\netcoreapp2.2\blog.RazorCoreGenerate.cache
+C:\Users\LENOVO\Desktop\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\LENOVO\Desktop\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\Contact\Index.g.cshtml.cs
+C:\Users\LENOVO\Desktop\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\Contact\New.g.cshtml.cs
+C:\Users\LENOVO\Desktop\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\Home\AccessDenied.g.cshtml.cs
+C:\Users\LENOVO\Desktop\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\LENOVO\Desktop\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\Home\Nav.g.cshtml.cs
+C:\Users\LENOVO\Desktop\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\Home\PageNotFound.g.cshtml.cs
+C:\Users\LENOVO\Desktop\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\LENOVO\Desktop\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\Post\Edit.g.cshtml.cs
+C:\Users\LENOVO\Desktop\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\Post\Error.g.cshtml.cs
+C:\Users\LENOVO\Desktop\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\Post\Footer.g.cshtml.cs
+C:\Users\LENOVO\Desktop\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\Post\Index.g.cshtml.cs
+C:\Users\LENOVO\Desktop\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\Post\MyPosts.g.cshtml.cs
+C:\Users\LENOVO\Desktop\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\Post\New.g.cshtml.cs
+C:\Users\LENOVO\Desktop\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\Post\See.g.cshtml.cs
+C:\Users\LENOVO\Desktop\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\Post\SeeMore.g.cshtml.cs
+C:\Users\LENOVO\Desktop\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\Profile\Index.g.cshtml.cs
+C:\Users\LENOVO\Desktop\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\Profile\New.g.cshtml.cs
+C:\Users\LENOVO\Desktop\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\LENOVO\Desktop\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\LENOVO\Desktop\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\LENOVO\Desktop\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\LENOVO\Desktop\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\LENOVO\Desktop\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\LENOVO\Desktop\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\LENOVO\Desktop\DotNet\New\blog\obj\Debug\netcoreapp2.2\blog.RazorTargetAssemblyInfo.cache
+C:\Users\LENOVO\Desktop\DotNet\New\blog\obj\Debug\netcoreapp2.2\blog.RazorTargetAssemblyInfo.cs
+C:\Users\LENOVO\Desktop\DotNet\New\blog\obj\Debug\netcoreapp2.2\blog.Views.pdb
+C:\Users\LENOVO\Desktop\DotNet\New\blog\obj\Debug\netcoreapp2.2\blog.dll
+C:\Users\LENOVO\Desktop\DotNet\New\blog\obj\Debug\netcoreapp2.2\blog.pdb
+C:\Users\LENOVO\Desktop\DotNet\New\blog\obj\Debug\netcoreapp2.2\blog.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\Profile\AuthorProfile.g.cshtml.cs
+C:\Users\LENOVO\Desktop\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\Admin\Index.g.cshtml.cs
+C:\Users\LENOVO\Desktop\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\Profile\hh.g.cshtml.cs
+C:\Users\LENOVO\Desktop\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+C:\Users\LENOVO\Desktop\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+C:\Users\LENOVO\Desktop\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\LENOVO\Desktop\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+C:\Users\LENOVO\Desktop\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\Profile\Edit.g.cshtml.cs
+E:\DotNet\New\blog\bin\Debug\netcoreapp2.2\app.db
+E:\DotNet\New\blog\bin\Debug\netcoreapp2.2\blog.deps.json
+E:\DotNet\New\blog\bin\Debug\netcoreapp2.2\blog.runtimeconfig.json
+E:\DotNet\New\blog\bin\Debug\netcoreapp2.2\blog.runtimeconfig.dev.json
+E:\DotNet\New\blog\bin\Debug\netcoreapp2.2\blog.dll
+E:\DotNet\New\blog\bin\Debug\netcoreapp2.2\blog.pdb
+E:\DotNet\New\blog\bin\Debug\netcoreapp2.2\blog.Views.dll
+E:\DotNet\New\blog\bin\Debug\netcoreapp2.2\blog.Views.pdb
+E:\DotNet\New\blog\obj\Debug\netcoreapp2.2\blog.csprojAssemblyReference.cache
+E:\DotNet\New\blog\obj\Debug\netcoreapp2.2\blog.csproj.CoreCompileInputs.cache
+E:\DotNet\New\blog\obj\Debug\netcoreapp2.2\blog.RazorAssemblyInfo.cache
+E:\DotNet\New\blog\obj\Debug\netcoreapp2.2\blog.RazorAssemblyInfo.cs
+E:\DotNet\New\blog\obj\Debug\netcoreapp2.2\blog.AssemblyInfoInputs.cache
+E:\DotNet\New\blog\obj\Debug\netcoreapp2.2\blog.AssemblyInfo.cs
+E:\DotNet\New\blog\obj\Debug\netcoreapp2.2\blog.TagHelpers.input.cache
+E:\DotNet\New\blog\obj\Debug\netcoreapp2.2\blog.TagHelpers.output.cache
+E:\DotNet\New\blog\obj\Debug\netcoreapp2.2\blog.RazorCoreGenerate.cache
+E:\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+E:\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+E:\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+E:\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+E:\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+E:\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\Admin\Index.g.cshtml.cs
+E:\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\Contact\Index.g.cshtml.cs
+E:\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\Contact\New.g.cshtml.cs
+E:\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\Home\AccessDenied.g.cshtml.cs
+E:\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+E:\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\Home\Nav.g.cshtml.cs
+E:\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\Home\PageNotFound.g.cshtml.cs
+E:\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+E:\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\Post\Edit.g.cshtml.cs
+E:\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\Post\Error.g.cshtml.cs
+E:\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\Post\Footer.g.cshtml.cs
+E:\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\Post\Index.g.cshtml.cs
+E:\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\Post\MyPosts.g.cshtml.cs
+E:\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\Post\New.g.cshtml.cs
+E:\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\Post\See.g.cshtml.cs
+E:\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\Post\SeeMore.g.cshtml.cs
+E:\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\Profile\AuthorProfile.g.cshtml.cs
+E:\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\Profile\Edit.g.cshtml.cs
+E:\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\Profile\hh.g.cshtml.cs
+E:\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\Profile\Index.g.cshtml.cs
+E:\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\Profile\New.g.cshtml.cs
+E:\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+E:\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+E:\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+E:\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+E:\DotNet\New\blog\obj\Debug\netcoreapp2.2\blog.RazorTargetAssemblyInfo.cache
+E:\DotNet\New\blog\obj\Debug\netcoreapp2.2\blog.RazorTargetAssemblyInfo.cs
+E:\DotNet\New\blog\obj\Debug\netcoreapp2.2\blog.Views.pdb
+E:\DotNet\New\blog\obj\Debug\netcoreapp2.2\blog.dll
+E:\DotNet\New\blog\obj\Debug\netcoreapp2.2\blog.pdb
+E:\DotNet\New\blog\obj\Debug\netcoreapp2.2\blog.csproj.CopyComplete
+E:\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\Post\Category.g.cshtml.cs
+E:\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\Post\SeeMore1.g.cshtml.cs
+E:\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\Post\Search.g.cshtml.cs
+C:\Users\Lenovo\Desktop\DotNet\DotNet\New\blog\bin\Debug\netcoreapp2.2\app.db
+C:\Users\Lenovo\Desktop\DotNet\DotNet\New\blog\bin\Debug\netcoreapp2.2\blog.deps.json
+C:\Users\Lenovo\Desktop\DotNet\DotNet\New\blog\bin\Debug\netcoreapp2.2\blog.runtimeconfig.json
+C:\Users\Lenovo\Desktop\DotNet\DotNet\New\blog\bin\Debug\netcoreapp2.2\blog.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\DotNet\DotNet\New\blog\bin\Debug\netcoreapp2.2\blog.dll
+C:\Users\Lenovo\Desktop\DotNet\DotNet\New\blog\bin\Debug\netcoreapp2.2\blog.pdb
+C:\Users\Lenovo\Desktop\DotNet\DotNet\New\blog\bin\Debug\netcoreapp2.2\blog.Views.dll
+C:\Users\Lenovo\Desktop\DotNet\DotNet\New\blog\bin\Debug\netcoreapp2.2\blog.Views.pdb
+C:\Users\Lenovo\Desktop\DotNet\DotNet\New\blog\obj\Debug\netcoreapp2.2\blog.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\DotNet\DotNet\New\blog\obj\Debug\netcoreapp2.2\blog.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\DotNet\DotNet\New\blog\obj\Debug\netcoreapp2.2\blog.RazorAssemblyInfo.cache
+C:\Users\Lenovo\Desktop\DotNet\DotNet\New\blog\obj\Debug\netcoreapp2.2\blog.RazorAssemblyInfo.cs
+C:\Users\Lenovo\Desktop\DotNet\DotNet\New\blog\obj\Debug\netcoreapp2.2\blog.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\DotNet\DotNet\New\blog\obj\Debug\netcoreapp2.2\blog.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\DotNet\DotNet\New\blog\obj\Debug\netcoreapp2.2\blog.TagHelpers.input.cache
+C:\Users\Lenovo\Desktop\DotNet\DotNet\New\blog\obj\Debug\netcoreapp2.2\blog.TagHelpers.output.cache
+C:\Users\Lenovo\Desktop\DotNet\DotNet\New\blog\obj\Debug\netcoreapp2.2\blog.RazorCoreGenerate.cache
+C:\Users\Lenovo\Desktop\DotNet\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+C:\Users\Lenovo\Desktop\DotNet\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+C:\Users\Lenovo\Desktop\DotNet\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Lenovo\Desktop\DotNet\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+C:\Users\Lenovo\Desktop\DotNet\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Lenovo\Desktop\DotNet\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\Admin\Index.g.cshtml.cs
+C:\Users\Lenovo\Desktop\DotNet\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\Contact\Index.g.cshtml.cs
+C:\Users\Lenovo\Desktop\DotNet\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\Contact\New.g.cshtml.cs
+C:\Users\Lenovo\Desktop\DotNet\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\Home\AccessDenied.g.cshtml.cs
+C:\Users\Lenovo\Desktop\DotNet\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Lenovo\Desktop\DotNet\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\Home\Nav.g.cshtml.cs
+C:\Users\Lenovo\Desktop\DotNet\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\Home\PageNotFound.g.cshtml.cs
+C:\Users\Lenovo\Desktop\DotNet\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Lenovo\Desktop\DotNet\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\Post\Category.g.cshtml.cs
+C:\Users\Lenovo\Desktop\DotNet\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\Post\Edit.g.cshtml.cs
+C:\Users\Lenovo\Desktop\DotNet\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\Post\Error.g.cshtml.cs
+C:\Users\Lenovo\Desktop\DotNet\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\Post\Footer.g.cshtml.cs
+C:\Users\Lenovo\Desktop\DotNet\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\Post\Index.g.cshtml.cs
+C:\Users\Lenovo\Desktop\DotNet\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\Post\MyPosts.g.cshtml.cs
+C:\Users\Lenovo\Desktop\DotNet\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\Post\New.g.cshtml.cs
+C:\Users\Lenovo\Desktop\DotNet\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\Post\Search.g.cshtml.cs
+C:\Users\Lenovo\Desktop\DotNet\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\Post\See.g.cshtml.cs
+C:\Users\Lenovo\Desktop\DotNet\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\Post\SeeMore.g.cshtml.cs
+C:\Users\Lenovo\Desktop\DotNet\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\Post\SeeMore1.g.cshtml.cs
+C:\Users\Lenovo\Desktop\DotNet\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\Profile\AuthorProfile.g.cshtml.cs
+C:\Users\Lenovo\Desktop\DotNet\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\Profile\Edit.g.cshtml.cs
+C:\Users\Lenovo\Desktop\DotNet\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\Profile\hh.g.cshtml.cs
+C:\Users\Lenovo\Desktop\DotNet\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\Profile\Index.g.cshtml.cs
+C:\Users\Lenovo\Desktop\DotNet\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\Profile\New.g.cshtml.cs
+C:\Users\Lenovo\Desktop\DotNet\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Lenovo\Desktop\DotNet\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Lenovo\Desktop\DotNet\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Lenovo\Desktop\DotNet\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\Lenovo\Desktop\DotNet\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Lenovo\Desktop\DotNet\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Lenovo\Desktop\DotNet\DotNet\New\blog\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Lenovo\Desktop\DotNet\DotNet\New\blog\obj\Debug\netcoreapp2.2\blog.RazorTargetAssemblyInfo.cache
+C:\Users\Lenovo\Desktop\DotNet\DotNet\New\blog\obj\Debug\netcoreapp2.2\blog.RazorTargetAssemblyInfo.cs
+C:\Users\Lenovo\Desktop\DotNet\DotNet\New\blog\obj\Debug\netcoreapp2.2\blog.Views.pdb
+C:\Users\Lenovo\Desktop\DotNet\DotNet\New\blog\obj\Debug\netcoreapp2.2\blog.dll
+C:\Users\Lenovo\Desktop\DotNet\DotNet\New\blog\obj\Debug\netcoreapp2.2\blog.pdb
+C:\Users\Lenovo\Desktop\DotNet\DotNet\New\blog\obj\Debug\netcoreapp2.2\blog.csproj.CopyComplete

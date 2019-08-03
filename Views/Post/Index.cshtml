@@ -1,0 +1,81 @@
+@model List<Post>
+
+ <!-- <div class="row">    
+  @foreach (var x in Model)  
+  {
+   
+     
+   <div class="col-sm-4">
+     <br>
+<div class="card">
+  <div class="card-header">
+     <a asp-action="Category" asp-controller="Post" asp-route-category="@x.Category"> @x.Category</a>
+  </div>
+  <div class="card-body">
+    <h5 class="card-title">@Html.Raw(x.Description.Length>200? x.Description.Substring(0,199)+"..." : x.Description)</h5>
+    
+<p> <a asp-controller="Profile" asp-action="AuthorProfile" asp-route-username="@x.UserName"> By @x.UserName.Split('@')[0] </a> <small></small>   @x.Date.ToString("MMMM dd") </p>
+
+  
+    <a  class="btn btn-primary" href="/Post/SeeMore/@x.Id"> SeeMore</a>
+    
+
+  </div>
+</div>
+   </div>
+     
+
+
+  }
+  </div>   -->
+  <div class="row">
+@if (Model == null)
+{
+  <p> Nothing </p>
+}
+
+else
+{
+  @foreach (var x in Model)  
+  {
+   
+    
+      <div class="col-md-6">
+      <div class="row no-gutters border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+        <div class="col p-4 d-flex flex-column position-static">
+          <strong class="d-inline-block mb-2 text-danger"  >
+           
+           @if(x.Id%2 == 0)
+{
+
+                        <a asp-action="Category" asp-controller="Post" asp-route-category="@x.Category"  style="color:Red;"> @x.Category </a>
+}
+else
+{
+                        <a asp-action="Category" asp-controller="Post" asp-route-category="@x.Category"  style="color:blue;"> @x.Category </a>
+  
+}
+            </strong>
+          <h3 class="mb-0"> @x.Heading </h3>
+          <div class="mb-1 text-muted">@x.Date.ToString("MMMM dd") at @x.Date.ToString("hhhh : mm") by
+            <a asp-controller="Profile" asp-action="AuthorProfile" asp-route-username="@x.UserName"> By @x.UserName.Split('@')[0] </a>
+             </div>
+          
+          <p class="card-text mb-auto">  @Html.Raw(x.Description.Length>200? x.Description.Substring(0,199)+"..." : x.Description)     </p>
+         <a asp-controller="Post" asp-action="SeeMore1" asp-route-id="@x.Id" asp-route-cat="@x.Category" class="stretched-link">Continue reading</a>
+          
+        </div>
+        <div class="col-auto d-none d-lg-block">
+          <img src="images/@x.PhotoName" class="bd-placeholder-img" width="200" height="250"></img> 
+        </div>
+      </div>
+      </div>
+    
+    
+  
+
+  }
+} 
+  </div>
+
+  

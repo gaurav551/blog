@@ -1,0 +1,39 @@
+
+@model List<Post>
+
+
+<div class="alert alert-warning alert-dismissible fade show" role="alert">
+  <strong></strong> Showing Posts For @ViewBag.Ca
+  <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+    <span aria-hidden="true">&times;</span>
+  </button>
+</div>
+
+  <div class="row">    
+  @foreach (var x in Model)  
+  {
+   
+     
+   <div class="col-sm-4">
+     <br>
+<div class="card">
+  <div class="card-header"> @x.Heading
+      
+  </div>
+  <div class="card-body"> 
+    <h5 class="card-title">@Html.Raw(x.Description.Length>200? x.Description.Substring(0,199)+"..." : x.Description)</h5>
+    
+<p> <a asp-controller="Profile" asp-action="AuthorProfile" asp-route-username="@x.UserName"> By @x.UserName.Split('@')[0] </a> <small></small>   @x.Date.ToString("MMMM dd") </p>
+
+  
+         <a asp-controller="Post" asp-action="SeeMore1" asp-route-id="@x.Id" asp-route-cat="@x.Category" class="btn btn-primary">Continue reading</a>
+      
+
+  </div>
+</div>
+   </div>
+     
+
+
+  }
+  </div>  
